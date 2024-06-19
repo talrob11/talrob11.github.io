@@ -1,0 +1,39 @@
+.trading-card {
+    width: 310px;
+    border: 1px rgb(247,200,227);
+    padding-right: 0.2em;
+    padding-left: 0.7em;
+    padding-bottom: 0.6em;
+    background-color: rgb(192,203,250);
+  }
+  
+  .info-box {
+    width: 283px;
+    border: 1px solid rgb(247,200,227);
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+  }
+  
+
+  .animal-picture {
+    width: 300px;
+    height: 200px;
+    padding-bottom: 0.8em;
+  }
+  
+ 
+  .interesting-fact {
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace;
+  }
+  
+  
+  .list-info{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .span{
+    font-weight: bold;
+  }
